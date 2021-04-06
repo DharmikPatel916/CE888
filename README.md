@@ -1,1 +1,2 @@
-# CE888: Data Science and Decision Making
+# CE888
+CE888: Data Science and Decision Making
