@@ -18,7 +18,7 @@ http://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/
 ***How to Run the Code***
 * ***Open in Google Colab / jupyter notebook***
 * ***Locate the dataset file***
-* ***Run all / run by cell***
+* ***Run all / Run by cell***
 
 
 
