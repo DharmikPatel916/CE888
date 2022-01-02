@@ -15,7 +15,7 @@ http://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/
 * ***Random Forest***
 * ***Deepnets(Keras with tensorflow backend)***
 
-***How to Run the Code***
+### How to Run the Code
 * ***Open in Google Colab / jupyter notebook***
 * ***Locate the dataset file***
 * ***Run all / Run by cell***
