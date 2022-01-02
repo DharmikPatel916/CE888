@@ -1,6 +1,6 @@
+##  Forest Fire Detection using Machine Learning
+
 ##  This notebook is an implementation of the work shown in the paper :
-
-
 
 ***Using Regression to predict Forest Fires ::*** 
 This is a regression task, where the aim is to predict 
